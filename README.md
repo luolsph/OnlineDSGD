@@ -1,11 +1,10 @@
-# OnlineDSGD
+# About
+
+Online Inference with Debiased Stochastic Gradient Descent (Online DSGD)
+
 This repository includes source codes for online debiased stochastic gradient descent (OnlineDSGD) algorithms. These algorithms are developed for online statistical inference with high-dimensional streaming data.
 
-# Title: Online Inference with Debiased Stochastic Gradient Descent
-# Version: 1.0
-# Date: 2023-07-05
-# Author: Ruijian Han and Lan Luo
-# Maintainer: Ruijian Han <ruijian.han@polyu.edu.hk> and Lan Luo <l.luo@rutgers.edu>
+Maintainer: Ruijian Han <ruijian.han@polyu.edu.hk> and Lan Luo <l.luo@rutgers.edu>
 
 # Description: Online statistical inference of high-dimensional streaming data. 
 * [datagenerator.R] generating the simulated data
