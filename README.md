@@ -6,7 +6,7 @@ This repository includes source codes for online debiased stochastic gradient de
 
 Maintainers: Ruijian Han <ruijian.han@polyu.edu.hk> and Lan Luo <l.luo@rutgers.edu>
 
-# Description: Online statistical inference of high-dimensional streaming data. 
+# Description
 * [datagenerator.R] generating the simulated data
 
 * [online_LASSO_RADAR.R] function for online debiased regularization annealed epoch dual averaging (DRADAR)
