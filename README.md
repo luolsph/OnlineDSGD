@@ -20,3 +20,6 @@ This repository includes source codes for online debiased stochastic gradient de
 
 * [run_main.R] execute file for simulations 
 
+# Citation
+If you use the OnlineDSGD package, please consider citing the relevant manuscript:
+Ruijian Han, Lan Luo, Yuanyuan Lin and Jian Huang (2023). Online inference with debiased gradient descent. Biometrika.
